@@ -82,7 +82,7 @@ Experimentos con servicios de IA en Azure, aplicando lo aprendido en SENATI.
 ## 📬 Contacto
 
 - 📧 alexangonzales260@gmail.com
-- 💼 [LinkedIn](www.linkedin.com/in/leonardo-alexander-palacios-gonzales-a883a442b)
+- 💼 LinkedIn (www.linkedin.com/in/leonardo-alexander-palacios-gonzales-a883a442b)
 - 🌐 [Portfolio](https://tu-sitio.netlify.app)
 
 *"Código limpio, tests confiables, deploys tranquilos."*  
